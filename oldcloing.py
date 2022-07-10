@@ -69,7 +69,7 @@ $$/   $$/  $$$$$$$/ $$/   $$/ $$/ $$$$$$$/
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :3.1\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : MR RAKIB \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/ZihadVau99 \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/MRRAKIB-404 \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : https://www.facebook.com/Itz.RAKiB.Sakib.Take.love\x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
  """)
